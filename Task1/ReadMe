@@ -1,0 +1,6 @@
+This task is very simple covers some basics of python programming such as syntax, indentation and for loop so on.
+In this task I asking user to input a sentence and printing out the following
+- Number of vowels found
+- Total numbers of word in a sentence found 
+- Number of Palindrome words found
+- Number of Numeric words found
