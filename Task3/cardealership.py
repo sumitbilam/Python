@@ -15,9 +15,11 @@ def gen_password():
   print(password)
   return password
 
+# this function display the inventory 
 def display_inventory():
   print("Our Inventory:"+"\n"+"Honda"+"\n"+"Toyota"+"\n"+"kia")
 
+ # this function display the car details
 def car_detail(car):
   if car.lower() == "honda":
     print("You have selected: ", car.upper()) 
