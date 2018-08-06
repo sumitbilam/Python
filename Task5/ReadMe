@@ -1,0 +1,8 @@
+In this task I have shown how does simple class work in Python. I have used some getter and setter in the class to make it more simplified. 
+
+Note that in Python, you actually relatively rarely use getters and setters. While these are required or strongly encouraged in some 
+languages (like Java), they actually are often discouraged in Python in keeping with the "Pythonic" approach of keeping easy access to 
+variables and data. Unless you are actually going to use one of the advantages associated with getters and setters, it may be best to skip
+using them.
+
+Still, it is important to know how they work for when you encounter them, and to know their advantages so you know when to use them.
